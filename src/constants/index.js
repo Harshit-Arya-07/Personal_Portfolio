@@ -3,53 +3,53 @@ export const myProjects = [
     id: 1,
     title: "CodeSync",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      " A collaborative code editor with real-time synchronization and version control.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+     
+      "Designed and developed using React, Node.js, Socket.IO, and Monaco Editor.",
+      "Built a microservices-based backend with Express and MongoDB for high availability and fault tolerance.",
+      "Optimized performance with Chrome DevTools, Postman, and load-testing tools."
     ],
-    href: "",
+    href: "https://codesync7.netlify.app/",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/Codesync.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: ".Net",
+        name: "Node.js",
         path: "/assets/logos/dotnet.svg",
       },
       {
         id: 3,
-        name: "Ef Core",
+        name: "Socket.IO",
         path: "/assets/logos/efcore.png",
       },
       {
         id: 4,
-        name: "TailwindCSS",
+        name: "MongoDB",
         path: "/assets/logos/tailwindcss.svg",
       },
     ],
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "QuickCart – E-Commerce Web Application",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "A full-stack e-commerce application with responsive UI and secure shopping experience.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+       "Developed frontend using React.js, JavaScript, HTML, and CSS with deployment on Netlify.",
+      "Integrated REST APIs and implemented AI-powered product recommendations.",
+      "Ensured reliability through unit and integration testing with Jest and Postman.",
+    
     ],
-    href: "",
+    href: "https://quickcart112.netlify.app/",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/Screenshot 2025-09-06 162826.png",
     tags: [
       {
         id: 1,
@@ -75,33 +75,32 @@ export const myProjects = [
   },
   {
     id: 3,
-    title: "Blazor Web App",
+    title: "AlgoViz",
     description:
-      "A modern, interactive web application built with Blazor WebAssembly and .NET Core.",
+      "A responsive web application to visualize core data structures and algorithms in real time.",
     subDescription: [
-      "Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.",
-      "Implemented API interactions using .NET Core for a robust backend.",
-      "Designed responsive UI components with Tailwind CSS for an enhanced UX.",
-      "Integrated SQLite for efficient client-side database storage.",
+      "Implemented interactive visualizations for algorithms (BFS, DFS, Merge Sort, etc.) using React and JavaScript.",
+      "Designed modular architecture for scalability and API integration.",
+      "Built engaging UI with animations for better understanding of DSA concepts.",
     ],
-    href: "",
+    href: "https://algoviz.netlify.app/",
     logo: "",
-    image: "/assets/projects/blazor-app.jpg",
+    image: "/assets/projects/Screenshot 2025-09-06 163533.png",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: ".NET Core",
-        path: "/assets/logos/dotnetcore.svg",
+        name: "CSS3",
+        path: "/assets/logos/css3.svg",
       },
       {
         id: 3,
-        name: "SQLite",
-        path: "/assets/logos/sqlite.svg",
+        name: "JavaScript",
+        path: "/assets/logos/javascript.svg",
       },
       {
         id: 4,
@@ -110,7 +109,7 @@ export const myProjects = [
       },
     ],
   },
-  {
+  /*{
     id: 4,
     title: "C++ Game Engine",
     description:
@@ -220,7 +219,7 @@ export const myProjects = [
         path: "/assets/logos/tailwindcss.svg",
       },
     ],
-  },
+  },*/
 ];
 
 export const mySocials = [
@@ -231,98 +230,96 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/harshitarya7/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "",
     icon: "/assets/socials/instagram.svg",
   },
 ];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Chandigarh University , Mohali",
+    job: "B.Tech in Computer Science , GPA: 8.1/10",
+    date: "2023-2027",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      
+  "Built a strong foundation in Computer Science fundamentals including Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, DBMS, and Cloud Computing.",
+  "Worked on real-world projects like real-time collaborative platforms, e-commerce applications, and visualization tools.",
+  "Actively participated in hackathons (Winner, NeoCodethon 2024) and coding platforms like LeetCode, Codeforces, and HackerRank (solved 120+ problems).",
+  "Gained hands-on skills in full-stack web development (MERN, .NET), cloud scalability, microservices, and testing.",
+
+
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "College of Commerce, Arts & Science",
+    job: "PCM, GPA: 74.4%",
+    date: "2020-2022",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+     " Strengthened Mathematics and Analytical problem-solving skills, which later helped in algorithmic thinking and competitive programming."
     ],
   },
-  {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
-    contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
-    ],
-  },
+  // {
+  //   title: "Freelance Developer",
+  //   job: "Self-Employed",
+  //   date: "2025-Present",
+  //   contents: [
+  //     "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
+  //     "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+  //   ],
+  // },
 ];
 export const reviews = [
-  {
-    name: "Jack",
-    username: "@jack",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
-    img: "https://robohash.org/jack",
-  },
-  {
-    name: "Jill",
-    username: "@jill",
-    body: "I don't know what to say. I'm speechless. This is amazing.",
-    img: "https://robohash.org/jill",
-  },
-  {
-    name: "John",
-    username: "@john",
-    body: "I'm at a loss for words. This is amazing. I love it.",
-    img: "https://robohash.org/john",
-  },
-  {
-    name: "Alice",
-    username: "@alice",
-    body: "This is hands down the best thing I've experienced. Highly recommend!",
-    img: "https://robohash.org/alice",
-  },
-  {
-    name: "Bob",
-    username: "@bob",
-    body: "Incredible work! The attention to detail is phenomenal.",
-    img: "https://robohash.org/bob",
-  },
-  {
-    name: "Charlie",
-    username: "@charlie",
-    body: "This exceeded all my expectations. Absolutely stunning!",
-    img: "https://robohash.org/charlie",
-  },
-  {
-    name: "Dave",
-    username: "@dave",
-    body: "Simply breathtaking. The best decision I've made in a while.",
-    img: "https://robohash.org/dave",
-  },
-  {
-    name: "Eve",
-    username: "@eve",
-    body: "So glad I found this. It has changed the game for me.",
-    img: "https://robohash.org/eve",
-  },
+  // {
+  //   name: "Jack",
+  //   username: "@jack",
+  //   body: "I've never seen anything like this before. It's amazing. I love it.",
+  //   img: "https://robohash.org/jack",
+  // },
+  // {
+  //   name: "Jill",
+  //   username: "@jill",
+  //   body: "I don't know what to say. I'm speechless. This is amazing.",
+  //   img: "https://robohash.org/jill",
+  // },
+  // {
+  //   name: "John",
+  //   username: "@john",
+  //   body: "I'm at a loss for words. This is amazing. I love it.",
+  //   img: "https://robohash.org/john",
+  // },
+  // {
+  //   name: "Alice",
+  //   username: "@alice",
+  //   body: "This is hands down the best thing I've experienced. Highly recommend!",
+  //   img: "https://robohash.org/alice",
+  // },
+  // {
+  //   name: "Bob",
+  //   username: "@bob",
+  //   body: "Incredible work! The attention to detail is phenomenal.",
+  //   img: "https://robohash.org/bob",
+  // },
+  // {
+  //   name: "Charlie",
+  //   username: "@charlie",
+  //   body: "This exceeded all my expectations. Absolutely stunning!",
+  //   img: "https://robohash.org/charlie",
+  // },
+  // {
+  //   name: "Dave",
+  //   username: "@dave",
+  //   body: "Simply breathtaking. The best decision I've made in a while.",
+  //   img: "https://robohash.org/dave",
+  // },
+  // {
+  //   name: "Eve",
+  //   username: "@eve",
+  //   body: "So glad I found this. It has changed the game for me.",
+  //   img: "https://robohash.org/eve",
+  // },
 ];

@@ -19,8 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Harshit Arya</p>
             <p className="subtext">
-              Over the last 4 years, I developed my frontend and backend dev
-              skills to deliver dynamic and software and web applications.
+              
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
@@ -81,7 +80,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Mars, and open to remote work worldwide
+             Based on Mars 🌌 | Open to Remote Work Across the Globe
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
@@ -102,8 +101,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Teck Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
-              allow me to build robust and scalable applications
+              I specialize in a variety of languages, frameworks, and tools that allow me to build robust and scalable applications — including JavaScript (ES6+), TypeScript, React.js, Node.js, Express.js, MongoDB, and Next.js. I also work with tools like Git/GitHub, Docker, REST APIs, and cloud platforms such as AWS and Vercel to deliver end-to-end solutions.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
