@@ -9,7 +9,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ## 📚 Table of Contents
 
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#-tech-stack) 
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Assets](#-assets)
